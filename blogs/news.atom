@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rubyoung.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://rubyoung.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://rubyoung.com/blogs/news.atom"/>
+  <title>Rubyoung - News</title>
+  <updated>2022-07-06T15:11:38+08:00</updated>
+  <author>
+    <name>Rubyoung</name>
+  </author>
+  <entry>
+    <id>https://rubyoung.com/blogs/news/rubyoung-x-oriental-magicians-journey</id>
+    <published>2022-07-06T15:11:38+08:00</published>
+    <updated>2022-10-31T17:19:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://rubyoung.com/blogs/news/rubyoung-x-oriental-magicians-journey"/>
+    <title>Rubyoung X Oriental Magician&apos;s Journey</title>
+    <author>
+      <name>Shopify API</name>
+    </author>
+    <content type="html">
+      <![CDATA[<!--Gem_Page_Main_Editor-->
+<div class="clearfix"></div>
+<div class="gryffeditor">
+<div data-label="Row" data-key="row" id="r-1614760291880" class="gf_row" data-icon="gpicon-row" data-id="1614760291880" data-extraclass="">
+<div class="gf_column gf_col-md-3 gf_col-sm-3 gf_col-xs-12 gf_col-lg-2" id="c-1614760291866" data-id="1614760291866">
+<div data-label="Row" data-key="row" id="r-1614760857078" class="gf_row gf_row-gap-0" data-icon="gpicon-row" data-id="1614760857078" data-row-gap="0px" data-extraclass="">
+<div class="gf_col-lg-12 gf_column" id="c-1614760857017" data-id="1614760857017">
+<div data-label="Image" data-key="image" id="e-1614760299886" class="element-wrap" data-icon="gpicon-image" data-ver="1.0" data-id="1614760299886" data-resolution="100x100">
+<div class="elm gf-elm-center gf_elm-left-xs gf-elm-center-md gf-elm-center-sm gf-elm-left-xs gf-elm-center-lg" data-exc=""><img src="https://ucarecdn.com/7330bfd0-2171-40d0-87a1-358de0a8328d/-/format/auto/-/preview/100x100/-/quality/lighter/%E8%9A%82%E8%9A%81%E5%A7%91%E5%A8%982.jpg" alt="" class="gf_image" data-gemlang="en" data-width="70px" data-height="70px" title="" natural-width="100" natural-height="100" width="100" height="100"></div>
+</div>
+<div data-label="Text Block" data-key="text-block" id="e-1614760340256" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1614760340256">
+<div class="elm text-edit gf-elm-left gf-elm-center-lg gf-elm-center-md gf-elm-center-sm gf-elm-center-xs" data-gemlang="en" data-exc="">
+<p><b>MY ILLUSTRATION</b></p>
+</div>
+</div>
+<div data-label="Text Block" data-key="text-block" id="e-1614760434279" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1614760434279">
+<div class="elm text-edit gf-elm-left gf-elm-center-lg gf-elm-center-md gf-elm-center-sm gf-elm-center-xs" data-gemlang="en" data-exc="">
+<p>DECEMBER 19, 2021</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="gf_column gf_col-md-9 gf_col-sm-9 gf_col-xs-12 gf_col-lg-10" id="c-1614760295764" data-id="1614760295764">
+<div data-label="Row" data-key="row" id="r-1615178530044" class="gf_row gf_row-gap-0" data-icon="gpicon-row" data-id="1615178530044" data-extraclass="" data-row-gap="0px">
+<div class="gf_col-lg-12 gf_column" id="c-1615178530067" data-id="1615178530067">
+<div data-label="Text Block" data-key="text-block" id="e-1614760475679" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1614760475679">
+<div class="elm text-edit gf-elm-left gf-elm-left-lg gf-elm-left-md gf-elm-left-sm gf-elm-left-xs" data-gemlang="en" data-exc="">
+<p>A long time ago, a girl from the East embarked on a trip to the West in order to explore the mysteries of the world.</p>
+</div>
+</div>
+<div data-label="Text Block" data-key="text-block" id="e-1614760762148" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1614760762148">
+<div class="elm text-edit gf-elm-left gf-elm-left-lg gf-elm-left-md gf-elm-left-sm gf-elm-left-xs" data-gemlang="en" data-exc="">
+<p>They learn magic and local cultures, combining Eastern magic with Western magic.</p>
+<p>Gradually, among them, a new group was born - the Oriental magician Kong Lingna, one of them.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--gfsplit-->
+<div data-label="Row" data-key="row" id="r-1614761078631" class="gf_row gf_row-fluid gf_row-no-padding" data-icon="gpicon-row" data-id="1614761078631" data-extraclass="">
+<div class="gf_col-lg-12 gf_column" id="c-1614761078620" data-id="1614761078620">
+<div data-label="Image" data-key="image" id="e-1614761088092" class="element-wrap" data-icon="gpicon-image" data-ver="1.0" data-id="1614761088092" data-resolution="3000x3000">
+<div class="elm gf-elm-center gf_elm-left-xs gf-elm-center-lg gf-elm-center-md gf-elm-center-sm gf-elm-center-xs" data-exc=""><img src="https://ucarecdn.com/201e9454-8004-4a56-a341-367827ef41e8/-/format/auto/-/preview/3000x3000/-/quality/lighter/640.png" alt="" class="gf_image" data-gemlang="en" data-width="100%" data-height="auto" title="" natural-width="1200" natural-height="700" width="1200" height="700"></div>
+</div>
+</div>
+</div>
+<!--gfsplit-->
+<div data-label="Row" data-key="row" id="r-1614761139866" class="gf_row" data-icon="gpicon-row" data-id="1614761139866" data-extraclass="">
+<div class="gf_column gf_col-md-3 gf_col-xs-12 gf_col-lg-3 gf_col-sm-12" id="c-1614760291866" data-id="1614760291866">
+<div data-label="Row" data-key="row" id="r-1614761139886" class="gf_row gf_row-gap-0" data-icon="gpicon-row" data-id="1614761139886" data-row-gap="0px" data-extraclass="">
+<div class="gf_col-lg-12 gf_column" id="c-1614760857017" data-id="1614760857017">
+<div data-label="Image" data-key="image" id="e-1614761273058" class="element-wrap" data-icon="gpicon-image" data-ver="1.0" data-id="1614761273058" data-resolution="3000x3000">
+<div class="elm gf-elm-center gf_elm-left-xs gf-elm-right-lg gf-elm-right-md gf-elm-left-xs gf-elm-left-sm" data-exc=""><img src="https://ucarecdn.com/86fb0746-6c38-4b4d-acbd-8cbba01252a7/-/format/auto/-/preview/3000x3000/-/quality/lighter/" alt="" class="gf_image" data-gemlang="en" data-width="auto" data-height="auto" title="" natural-width="40" natural-height="28"></div>
+</div>
+<div data-label="Text Block" data-key="text-block" id="e-1614761139842" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1614761139842">
+<div class="elm text-edit gf-elm-left gf-elm-right-lg gf-elm-right-md gf-elm-right-sm gf-elm-right-xs" data-gemlang="en" data-exc="">
+<p>The encounter between <span>Oriental magician and</span> Rubyoung in the magical journey has crystalized into something powerful with each other's imprint. </p>
+</div>
+</div>
+<div data-label="Separator" data-key="separator" id="e-1614761971106" class="element-wrap" data-icon="gpicon-separator" data-ver="1.0" data-id="1614761971106">
+<div class="elm gf-elm-center gf-elm-center-lg gf-elm-center-md gf-elm-center-xs gf-elm-center-sm" data-align="left" data-exc=""><hr class="gf_separator"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="gf_column gf_col-md-9 gf_col-xs-12 gf_col-lg-9 gf_col-sm-12" id="c-1614760295764" data-id="1614760295764">
+<div data-label="Text Block" data-key="text-block" id="e-1614761139875" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1614761139875">
+<div class="elm text-edit gf-elm-left gf-elm-left-lg gf-elm-left-md gf-elm-left-sm gf-elm-left-xs" data-gemlang="en" data-exc="">
+<p>About the Journey</p>
+</div>
+</div>
+<div data-label="Text Block" data-key="text-block" id="e-1614761139843" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1614761139843">
+<div class="elm text-edit gf-elm-left gf-elm-left-lg gf-elm-left-md gf-elm-left-sm gf-elm-left-xs" data-gemlang="en" data-exc="">
+<p><span style="background-color: var(--color-contrast-bg); color: inherit; font-family: inherit; font-size: inherit; font-style: var(--font-body-style); font-weight: var(--font-body-weight); letter-spacing: 0px; text-align: inherit;">During the journey, the oriental magicians experienced all kinds of wonderful events, which improved some of their own attributes and talents, and made them shine in this field.</span></p>
+<p><span style="color: inherit; font-family: inherit; font-size: inherit; text-align: inherit; letter-spacing: 0px; font-style: var(--font-body-style); font-weight: var(--font-body-weight); background-color: var(--color-contrast-bg);">Magic connects art and music—two non-figurative substances that shake the human soul.</span></p>
+<p><span style="color: inherit; font-family: inherit; font-size: inherit; text-align: inherit; letter-spacing: 0px; font-style: var(--font-body-style); font-weight: var(--font-body-weight); background-color: var(--color-contrast-bg);">The magic of the unity of sound and picture shines brightly in the first cosmic collaboration between Rubyoung and MY ILLUSTRATION.</span></p>
+<p><span style="color: inherit; font-family: inherit; font-size: inherit; text-align: inherit; letter-spacing: 0px; font-style: var(--font-body-style); font-weight: var(--font-body-weight); background-color: var(--color-contrast-bg);">The wonderful dual sensory experience leads us into an oriental fantasy.</span></p>
+</div>
+</div>
+</div>
+</div>
+<!--gfsplit-->
+<div data-label="Row" data-key="row" id="r-1614761490848" class="gf_row" data-icon="gpicon-row" data-id="1614761490848" data-extraclass="">
+<div class="gf_col-lg-12 gf_column" id="c-1614761490772" data-id="1614761490772">
+<div data-label="Text Block" data-key="text-block" id="e-1614761483549" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1614761483549">
+<div class="elm text-edit gf-elm-left gf-elm-center-lg gf-elm-center-md gf-elm-center-sm gf-elm-center-xs" data-gemlang="en" data-exc="">
+<p>The  collaboration with Rubyoung was such an adventure that sublimated the magical power of an oriental magician into a transcendental representation.</p>
+<p> </p>
+</div>
+</div>
+<div data-label="Image" data-key="image" id="e-1614761556414" class="element-wrap" data-icon="gpicon-image" data-ver="1.0" data-id="1614761556414" data-resolution="3000x3000">
+<div class="elm gf-elm-center gf_elm-left-xs gf-elm-center-lg gf-elm-center-md gf-elm-center-sm gf-elm-center-xs" data-exc=""><img src="https://ucarecdn.com/f796411b-8778-4c86-920a-f681673e777d/-/format/auto/-/preview/3000x3000/-/quality/lighter/%E5%8D%96%E7%82%B9.jpg" alt="" class="gf_image" data-gemlang="en" data-width="100%" data-height="auto" title="" natural-width="981" natural-height="526" width="981" height="526"></div>
+</div>
+</div>
+</div>
+<!--gfsplit-->
+<div data-label="Row" data-key="row" id="r-1614763386460" class="gf_row" data-icon="gpicon-row" data-id="1614763386460" data-extraclass="">
+<div class="gf_col-lg-12 gf_column" id="c-1614761490772" data-id="1614761490772">
+<div data-label="Product" data-key="product" id="m-1614763386383" class="module-wrap" data-icon="gpicon-product" data-ver="3" data-id="1614763386383" style="min-height: auto;">
+<div class="module" data-variant="auto" data-current-variant="41631428935833"></div>
+</div>
+</div>
+</div>
+<!--gfsplit-->
+<div data-label="Row" id="r-1645770985747" class="gf_row gf_row-gap-0" data-icon="gpicon-row" data-id="1645770985747" data-vivaldi-spatnav-clickable="1" data-extraclass="" data-row-gap="0px">
+<div class="gf_column gf_col-lg-6 gf_col-md-6 gf_col-sm-6 gf_col-sm-offset-0" id="c-1505709938000" data-id="1505709938000" style="min-height: auto;" data-extraclass="">
+<div data-label="Image" id="e-1645770985653" class="element-wrap" data-icon="gpicon-image" data-id="1645770985653" data-vivaldi-spatnav-clickable="1" data-resolution="3000x3000">
+<div class="elm gf-elm-center gf-elm-center-lg gf-elm-center-md gf-elm-center-sm gf-elm-center-xs" data-exc=""><img src="https://ucarecdn.com/f7fe9d81-dacb-42ed-b3fd-48f9752cd37b/-/format/auto/-/preview/3000x3000/-/quality/lighter/%E5%B1%95%E8%A7%88.png" alt="" class="gf_image" data-vivaldi-spatnav-clickable="1" data-width="70%" data-height="auto" title="" width="992" height="1402" natural-width="992" natural-height="1402"></div>
+</div>
+</div>
+<div class="gf_column gf_col-lg-6 gf_col-md-6 gf_col-sm-6" id="c-1505709938059" data-id="1505709938059" data-extraclass="">
+<div data-label="Row" id="r-1645770985721" class="gf_row" data-icon="gpicon-row" data-id="1645770985721" data-vivaldi-spatnav-clickable="1">
+<div class="gf_col-md-12 gf_column" id="c-1505709938077" data-id="1505709938077" data-extraclass="">
+<div data-label="Text Block" id="e-1645770985640" class="element-wrap" data-icon="gpicon-textblock" data-id="1645770985640" data-vivaldi-spatnav-clickable="1">
+<div class="elm text-edit gf-elm-center gf-elm-center-lg gf-elm-center-md gf-elm-center-sm gf-elm-center-xs" data-exc="">
+<p style="text-align: inherit!important;"><span color="#393945" style="color: #393945;">The lying oriental magician Kong Lingna sits guarding the gate that enters the magical world, and the mysterious voice enters and appreciates.</span></p>
+<p style="text-align: inherit!important;"> </p>
+<p style="text-align: inherit!important;"><span color="#393945" style="color: #393945;"> </span></p>
+</div>
+</div>
+<div data-label="Heading" id="e-1645770985666" class="element-wrap" data-icon="gpicon-heading" data-id="1645770985666" data-vivaldi-spatnav-clickable="1">
+<div class="elm text-edit gf-elm-center gf-elm-center-lg gf-elm-center-md gf-elm-center-sm gf-elm-center-xs" data-exc="">
+<h1><span color="#1c1c25" style="font-weight: normal; color: #1c1c25;">Exhibition</span></h1>
+<h1><span color="#1c1c25" style="color: #1c1c25;">Eastern Magician's Journey</span></h1>
+<h1>VOYAGES · DANS LES MONDES MERVEILLEUYX</h1>
+<div><span color="#1c1c25" style="color: #1c1c25;"> </span></div>
+<div><span color="#1c1c25" style="color: #1c1c25;"><strong>ZUER (MY) ART EXHIBITION</strong></span></div>
+<div><span color="#1c1c25" style="color: #1c1c25;"> </span></div>
+<div><span color="#1c1c25" style="color: #1c1c25;">2021.12.19-2022.04.18</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--gfsplit-->
+<script>// <![CDATA[
+window.__gemStoreData = {};window.__gemStoreData.gemKeyValid = {};window.__gemStoreData.gemKeyValid.bestWayAddToCart = 1;
+// ]]]]><![CDATA[></script>
+</div>
+<div id="divContentBk"></div>
+<!--End_Gem_Page_Main_Editor-->]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://rubyoung.com/blogs/news/jack-irving-x-rubyoung-present-the-limited-edition-speaker-at-lfw-2022</id>
+    <published>2022-07-06T15:11:15+08:00</published>
+    <updated>2022-10-31T17:39:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://rubyoung.com/blogs/news/jack-irving-x-rubyoung-present-the-limited-edition-speaker-at-lfw-2022"/>
+    <title>Rubyoung X Jack Irving Presents Limited-Edition Speaker at LFW 2022</title>
+    <author>
+      <name>Sam Xie</name>
+    </author>
+    <content type="html">
+      <![CDATA[<!--Gem_Page_Main_Editor-->
+<div class="clearfix"></div>
+<div class="gryffeditor">
+<div data-label="Hero Banner" data-key="hero-banner" data-atomgroup="module" id="m-1645667674459" class="module-wrap" data-icon="gpicon-herobanner" data-ver="1.1" data-id="1645667674459">
+<div class="module " data-image="https://ucarecdn.com/9adfdf83-1f90-4a4a-82fd-133046a1ba92/-/format/auto/-/preview/3000x3000/-/quality/lighter/%E6%97%B6%E8%A3%85%E5%91%A85.jpg" data-image-lg="https://ucarecdn.com/9adfdf83-1f90-4a4a-82fd-133046a1ba92/-/format/auto/-/preview/3000x3000/-/quality/lighter/%e6%97%b6%e8%a3%85%e5%91%a85.jpg" data-image-md="https://ucarecdn.com/9adfdf83-1f90-4a4a-82fd-133046a1ba92/-/format/auto/-/preview/3000x3000/-/quality/lighter/%e6%97%b6%e8%a3%85%e5%91%a85.jpg" data-image-sm="https://ucarecdn.com/9adfdf83-1f90-4a4a-82fd-133046a1ba92/-/format/auto/-/preview/3000x3000/-/quality/lighter/%e6%97%b6%e8%a3%85%e5%91%a85.jpg" data-image-xs="https://ucarecdn.com/9adfdf83-1f90-4a4a-82fd-133046a1ba92/-/format/auto/-/preview/3000x3000/-/quality/lighter/%e6%97%b6%e8%a3%85%e5%91%a85.jpg" data-height="auto" data-effect="none" data-transition="0.5" data-fixedmode="0">
+<div data-label="Text Block" data-key="text-block" data-atomgroup="element" id="e-1645667748802" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1645667748802">
+<div class="elm text-edit gf-elm-left gf-elm-center-lg gf-elm-center-md gf-elm-center-sm gf-elm-center-xs" data-gemlang="en" data-exc="">
+<p><strong>Rubyoung X </strong><strong>Jack Irving Presents Limited-Edition Speaker at LFW 2022</strong></p>
+</div>
+</div>
+</div>
+<div class="gf_hero-bg-wrap">
+<div class="gf_hero-bg"></div>
+</div>
+<div class="gf_hero-overlay" style="background: transparent; opacity: 0.2;"></div>
+</div>
+<!--gfsplit-->
+<div data-label="Row" id="r-1570091528384" class="gf_row" data-icon="gpicon-row" data-id="1570091528384" data-extraclass="">
+<div class="gf_column gf_col-md-6" id="c-1543570947677" data-id="1543570947677" style="min-height: auto;">
+<div data-label="Youtube" data-key="youtube" data-atomgroup="module" id="m-1645684679648" class="module-wrap" data-icon="gpicon-youtube" data-ver="1" data-id="1645684679648">
+<div class="module gf_module- " data-url="https://youtu.be/Y4RjDEAVHY8" data-width="" data-height="" data-responsive="1" data-sound="0" data-autoplay="0" data-loop="0" data-controls="1" data-showinfo="" data-modestbranding="0" data-fs="1" data-rel="" data-hd="" data-start="" data-end=""></div>
+<div class="gf_youtube-overlay"></div>
+</div>
+</div>
+<div class="gf_column gf_col-md-6" id="c-1543570958751" data-id="1543570958751">
+<div data-label="Row" id="r-1570091528263" class="gf_row gf_row-gap-0" data-icon="gpicon-row" data-id="1570091528263" data-row-gap="0px" data-extraclass="">
+<div class="gf_col-md-12 gf_column" id="c-1543570993229" data-id="1543570993229" style="min-height: auto;">
+<div data-label="Text Block" id="e-1570091528304" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1570091528304">
+<div class="elm text-edit gf-elm-left gf-elm-center-md gf-elm-center-sm gf-elm-center-xs gf-elm-center-lg" data-gemlang="en" data-exc="">
+<p> </p>
+<p>London Fashion Week 2022 is back with a bang, with a hybrid digital-physical schedule incorporating catwalk shows, presentations and events throughout London, with over 100 designer brands joining force. This year’s hybrid schedule has no doubt given more exciting opportunities for brands to take part in this grandeur fashion celebration. Especially with ON|OFF celebrating its twentieth year, a cross-universe fashion showcase with Jack Irving will take place both digitally and physically with exciting brand collaborations.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--gfsplit-->
+<div data-label="Row" id="r-1645684584363" class="gf_row" data-icon="gpicon-row" data-id="1645684584363" data-extraclass="">
+<div class="gf_column gf_col-md-6" id="c-1543570947677" data-id="1543570947677" style="min-height: auto;">
+<div data-label="Image" data-key="image" data-atomgroup="element" id="e-1645684584349" class="element-wrap" data-icon="gpicon-image" data-ver="1.0" data-id="1645684584349" data-resolution="3000x3000">
+<div class="elm gf-elm-center gf_elm-left-xs gf-elm-center-lg gf-elm-center-md gf-elm-center-sm gf-elm-center-xs" data-exc=""><img src="https://ucarecdn.com/8bea0e36-a1c0-42ca-889a-e6ef731bf43f/-/format/auto/-/preview/3000x3000/-/quality/lighter/%E4%BC%A6%E6%95%A6%E7%A7%80.png" alt="" class="gf_image" data-gemlang="en" width="1080" height="1226" data-width="100%" data-height="auto" title="" natural-width="1080" natural-height="1226"></div>
+</div>
+</div>
+<div class="gf_column gf_col-md-6" id="c-1543570958751" data-id="1543570958751">
+<div data-label="Row" id="r-1645684584263" class="gf_row gf_row-gap-0" data-icon="gpicon-row" data-id="1645684584263" data-row-gap="0px" data-extraclass="">
+<div class="gf_col-md-12 gf_column" id="c-1543570993229" data-id="1543570993229" style="min-height: auto;">
+<div data-label="Text Block" data-key="text-block" data-atomgroup="element" id="e-1645691508295" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1645691508295">
+<div class="elm text-edit gf-elm-left gf-elm-center-lg gf-elm-center-md gf-elm-center-sm gf-elm-center-xs" data-gemlang="en" data-exc="">
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p><strong>Featuring the designer's signature thorns spikes print.</strong></p>
+</div>
+</div>
+<div data-label="Text Block" id="e-1645684584380" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1645684584380">
+<div class="elm text-edit gf-elm-left gf-elm-center-md gf-elm-center-sm gf-elm-center-xs gf-elm-center-lg" data-gemlang="en" data-exc="">
+<p> </p>
+<p><span style="background-color: var(--color-contrast-bg); font-family: inherit; font-size: inherit; font-style: var(--font-body-style); font-weight: var(--font-body-weight); letter-spacing: 0px; text-align: inherit;"><a href="https://rubyoung.com/" class=""><span color="#1e73be" style="color: #1e73be;">Rubyoung</span></a><span color="#ba0000" style="color: #ba0000;"> </span>has introduced its limited speaker in collaboration with designer Jack Irving. The limited-edition merchandise commemorated Jack's voice and made a mark for himself in the fashion world by creating things that blended glamour and technical technology. Rubyoung aims to further its mission in fusing the worlds of art and music together by bringing such cross-fielded collaborations to life, to highlight its brand vision that is to inspire a life with sound and color.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--gfsplit-->
+<div data-label="Image" data-key="image" data-atomgroup="element" id="e-1645668477574" class="element-wrap" data-icon="gpicon-image" data-ver="1.0" data-id="1645668477574" data-resolution="3000x3000">
+<div class="elm gf-elm-center gf_elm-left-xs gf-elm-center-md gf-elm-center-sm gf-elm-center-xs gf-elm-center-lg" data-exc=""><img src="https://ucarecdn.com/7f1b83b7-8ba1-48bb-923d-bcec7a983263/-/format/auto/-/preview/3000x3000/-/quality/lightest/IV.png" alt="" class="gf_image" data-gemlang="en" width="1085" height="729" data-width="100%" data-height="auto" title="" natural-width="1085" natural-height="729"></div>
+</div>
+<!--gfsplit-->
+<div data-label="Row" data-key="row" id="r-1645668718796" class="gf_row gf_row-gap-0 gf_row-fluid gf_row-no-padding" data-icon="gpicon-row" data-id="1645668718796" style="display: block; flex-wrap: unset; visibility: visible;" data-extraclass="" data-row-gap="0px">
+<div class="gf_col-lg-12 gf_column" id="c-1617682268809" data-id="1617682268809" style="display: block; flex-direction: unset; justify-content: unset; min-height: auto;">
+<div data-label="Row" id="r-1645669552070" class="gf_row" data-icon="gpicon-row" data-id="1645669552070" style="display: block;">
+<div class="gf_col-md-12 gf_column" id="c-1543570493214" data-id="1543570493214">
+<div data-label="Heading" id="e-1645669552183" class="element-wrap" data-icon="gpicon-heading" data-ver="1" data-id="1645669552183">
+<div class="elm text-edit gf-elm-center gf-elm-center-lg gf-elm-center-md gf-elm-center-sm gf-elm-center-xs" data-gemlang="en" data-exc="">
+<h1>JACK IRVING X RUBYOUNG</h1>
+</div>
+</div>
+</div>
+</div>
+<div data-label="Row" data-key="row" id="r-1645668718848" class="gf_row gf_row-gap-12" data-icon="gpicon-row" data-id="1645668718848" data-row-gap="12px" data-extraclass="">
+<div class="gf_col-lg-12 gf_column" id="c-1617682715574" data-id="1617682715574">
+<div data-label="Carousel" data-key="carousel" id="m-1645668718761" class="module-wrap" data-icon="gpicon-carousel" data-ver="1.0" data-id="1645668718761">
+<div class="module main-slider owl-carousel owl-theme " data-collg="1" data-colmd="1" data-colsm="1" data-colxs="1" data-marginlg="5px" data-marginmd="5px" data-marginsm="5px" data-marginxs="5px" data-dotslg="1" data-dotsmd="1" data-dotssm="1" data-dotsxs="1" data-navlg="1" data-navmd="1" data-navsm="1" data-navxs="1" data-navspeed="1200" data-autoplay="0" data-autoplaytimeout="5000" data-autoplayhoverpause="1" data-loop="0">
+<div class="item">
+<div data-index="1" class="item-content">
+<div data-label="Row" data-key="row" id="r-1645668718725" class="gf_row gf_row-gap-0" data-icon="gpicon-row" data-id="1645668718725" data-layout-lg="6+6" data-extraclass="" data-layout-md="6+6" data-layout-sm="6+6" data-layout-xs="12+12" data-row-gap="0px">
+<div class="gf_column gf_col-lg-6 gf_col-md-6 gf_col-sm-6 gf_col-xs-12" id="c-1617803755426" data-id="1617803755426">
+<div data-label="Image" data-key="image" id="e-1645668718813" class="element-wrap" data-icon="gpicon-image" data-ver="1.0" data-id="1645668718813" data-resolution="768x768">
+<div class="elm gf-elm-center gf_elm-left-xs gf-elm-center-lg gf-elm-center-md gf-elm-center-sm gf-elm-center-xs" data-exc=""><img src="https://ucarecdn.com/9341ef5e-be17-4919-b925-a6e8263b18b6/-/format/auto/-/preview/768x768/-/quality/lighter/%E6%97%B6%E8%A3%85%E5%91%A81.jpg" alt="" class="gf_image" data-gemlang="en" data-width="auto" data-height="auto" title="" natural-width="768" natural-height="513" width="768" height="513"></div>
+</div>
+</div>
+<div class="gf_column gf_col-lg-6 gf_col-md-6 gf_col-sm-6 gf_col-xs-12" id="c-1617803758988" data-id="1617803758988">
+<div data-label="Row" data-key="row" id="r-1645668718716" class="gf_row gf_row-gap-0" data-icon="gpicon-row" data-id="1645668718716" data-row-gap="0px" data-extraclass="">
+<div class="gf_col-lg-12 gf_column" id="c-1617803827390" data-id="1617803827390">
+<div data-label="Text Block" data-key="text-block" id="e-1645668718773" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1645668718773">
+<div class="elm text-edit gf-elm-left gf-elm-left-md gf-elm-left-sm gf-elm-left-xs gf-elm-center-lg" data-gemlang="en" data-exc="">
+<p><i><a href="http://www.jackirving.co.uk/" class=""><span color="#1e73be" style="color: #1e73be;">Jack Irving</span></a> is a London-based production and costume designer. </i><i style="color: inherit; font-family: inherit; font-size: inherit; text-align: inherit; letter-spacing: 0px; background-color: transparent; font-weight: var(--font-body-weight);">Jack is well known for his collaborations with Lady Gaga, who has worn several of his creations, the most famous of which is the Sea Urchin Showgirl inflatable garment she wore in Paris on the closing night of her artRAVE: The Artpop Ball World Tour.</i></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="item">
+<div data-index="2" class="item-content">
+<div data-label="Row" data-key="row" id="r-1645668718783" class="gf_row gf_row-gap-0" data-icon="gpicon-row" data-id="1645668718783" data-layout-lg="6+6" data-extraclass="" data-layout-md="6+6" data-layout-sm="6+6" data-layout-xs="12+12" data-row-gap="0px">
+<div class="gf_column gf_col-lg-6 gf_col-md-6 gf_col-sm-6 gf_col-xs-12" id="c-1617803755426" data-id="1617803755426">
+<div data-label="Image" data-key="image" id="e-1645668718753" class="element-wrap" data-icon="gpicon-image" data-ver="1.0" data-id="1645668718753" data-resolution="768x768">
+<div class="elm gf-elm-center gf_elm-left-xs gf-elm-center-lg gf-elm-center-md gf-elm-center-sm gf-elm-center-xs" data-exc=""><img src="https://ucarecdn.com/d3bbbb4d-4fc4-4df4-8a93-4e9b868dd277/-/format/auto/-/preview/768x768/-/quality/lighter/%E6%97%B6%E8%A3%85%E5%91%A82.jpg" alt="" class="gf_image" data-gemlang="en" data-width="auto" data-height="auto" title="" natural-width="588" natural-height="386"></div>
+</div>
+</div>
+<div class="gf_column gf_col-lg-6 gf_col-md-6 gf_col-sm-6 gf_col-xs-12" id="c-1617803758988" data-id="1617803758988">
+<div data-label="Row" data-key="row" id="r-1645668718791" class="gf_row gf_row-gap-0" data-icon="gpicon-row" data-id="1645668718791" data-row-gap="0px" data-extraclass="">
+<div class="gf_col-lg-12 gf_column" id="c-1617803827390" data-id="1617803827390">
+<div data-label="Text Block" data-key="text-block" id="e-1645668718767" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1645668718767">
+<div class="elm text-edit gf-elm-left gf-elm-left-md gf-elm-left-sm gf-elm-left-xs gf-elm-center-lg" data-gemlang="en" data-exc="">
+<p><i style="color: inherit; font-family: inherit; font-size: inherit; text-align: inherit; letter-spacing: 0px; background-color: transparent; font-weight: var(--font-body-weight);"> </i></p>
+<p><i style="color: inherit; font-family: inherit; font-size: inherit; text-align: inherit; letter-spacing: 0px; background-color: transparent; font-weight: var(--font-body-weight);">Jack's objective is to immerse the world in the greatest imaginative spectacle possible, encompassing all elements of theatricality and a passion for fusing technology and live performance.</i></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="item">
+<div data-index="3" class="item-content">
+<div data-label="Row" data-key="row" id="r-1645668718713" class="gf_row gf_row-gap-0" data-icon="gpicon-row" data-id="1645668718713" data-layout-lg="6+6" data-extraclass="" data-layout-md="6+6" data-layout-sm="6+6" data-layout-xs="12+12" data-row-gap="0px">
+<div class="gf_column gf_col-lg-6 gf_col-md-6 gf_col-sm-6 gf_col-xs-12" id="c-1617803755426" data-id="1617803755426">
+<div data-label="Image" data-key="image" id="e-1645668718751" class="element-wrap" data-icon="gpicon-image" data-ver="1.0" data-id="1645668718751" data-resolution="768x768">
+<div class="elm gf-elm-center gf_elm-left-xs gf-elm-center-md gf-elm-center-sm gf-elm-center-xs gf-elm-center-lg" data-exc=""><img src="https://ucarecdn.com/8e0f0b38-3705-4a04-a497-ce0ca18f88f7/-/format/auto/-/preview/768x768/-/quality/lighter/%E6%97%B6%E8%A3%85%E5%91%A8.png" alt="" class="gf_image" data-gemlang="en" data-width="auto" data-height="auto" title="" natural-width="588" natural-height="386"></div>
+</div>
+</div>
+<div class="gf_column gf_col-lg-6 gf_col-md-6 gf_col-sm-6 gf_col-xs-12" id="c-1617803758988" data-id="1617803758988">
+<div data-label="Row" data-key="row" id="r-1645668718731" class="gf_row gf_row-gap-0" data-icon="gpicon-row" data-id="1645668718731" data-row-gap="0px" data-extraclass="">
+<div class="gf_col-lg-12 gf_column" id="c-1617803827390" data-id="1617803827390">
+<div data-label="Text Block" data-key="text-block" id="e-1645668718825" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1645668718825">
+<div class="elm text-edit gf-elm-left gf-elm-left-md gf-elm-left-sm gf-elm-left-xs gf-elm-center-lg" data-gemlang="en" data-exc="">
+<p><i>His signature spikey thorns design is featured on the speaker, which combines metaverse elements with explosive musical energy. Furthermore, the Jack Irving x On|Off x Rubyoung interactive art, sound, and technology collaboration will be commemorated via a series of NFTs. </i></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="gf-carousel-loading">
+<div class="gf-caousel-ripple">
+<div></div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--gfsplit-->
+<div data-label="Row" id="r-1570091528228" class="gf_row" data-icon="gpicon-row" data-id="1570091528228">
+<div class="gf_col-md-12 gf_column" id="c-1543571806948" data-id="1543571806948">
+<div data-label="Heading" id="e-1570091528224" class="element-wrap" data-icon="gpicon-heading" data-ver="1" data-id="1570091528224">
+<div class="elm text-edit gf-elm-center gf-elm-center-lg gf-elm-center-md gf-elm-center-sm gf-elm-center-xs" data-gemlang="en" data-exc="">
+<h1>BUY TOGETHER</h1>
+</div>
+</div>
+</div>
+</div>
+<!--gfsplit-->
+<div data-label="Row" data-key="row" data-atomgroup="row" id="r-1645669941131" class="gf_row" data-icon="gpicon-row" data-id="1645669941131" data-layout-lg="6+6" data-extraclass="" data-layout-md="6+6" data-layout-sm="6+6" data-layout-xs="12+12">
+<div class="gf_column gf_col-lg-6 gf_col-md-6 gf_col-sm-6 gf_col-xs-12" id="c-1645669941164" data-id="1645669941164">
+<div data-label="Text Block" data-key="text-block" data-atomgroup="element" id="e-1645669946416" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1645669946416">
+<div class="elm text-edit gf-elm-left gf-elm-center-md gf-elm-center-sm gf-elm-center-xs gf-elm-center-lg" data-gemlang="en" data-exc="">
+<p><span style="color: inherit; font-family: inherit; font-size: inherit; text-align: inherit; letter-spacing: 0px; font-style: var(--font-body-style); font-weight: var(--font-body-weight); background-color: var(--color-contrast-bg);">Jack Irving x Rubyoung speaker will be available for purchase at Selfridges, London after the presentation.</span></p>
+<p> </p>
+<p> </p>
+<p><span style="color: inherit; font-family: inherit; font-size: inherit; text-align: inherit; letter-spacing: 0px; font-style: var(--font-body-style); font-weight: var(--font-body-weight); background-color: var(--color-contrast-bg);">Selfridges &amp; Co</span></p>
+<p>400 Oxford Street</p>
+<p>W1A 1AB London, UK</p>
+<p> </p>
+<p> </p>
+<p>Hours:</p>
+<p>Monday - Saturday, 10:00 to 21:00</p>
+<p>Sunday, 10:00 - 18:00</p>
+<p> </p>
+</div>
+</div>
+</div>
+<div class="gf_column gf_col-lg-6 gf_col-md-6 gf_col-sm-6 gf_col-xs-12" id="c-1645670109329" data-id="1645670109329">
+<div data-label="Image" data-key="image" data-atomgroup="element" id="e-1645670119681" class="element-wrap" data-icon="gpicon-image" data-ver="1.0" data-id="1645670119681" data-resolution="3000x3000">
+<div class="elm gf-elm-center gf_elm-left-xs gf-elm-center-lg gf-elm-center-md gf-elm-center-sm gf-elm-center-xs" data-exc=""><img src="https://ucarecdn.com/33d35363-ad20-4222-a8b4-bfd672ee63f3/-/format/auto/-/preview/3000x3000/-/quality/lighter/%E6%97%B6%E8%A3%85%E5%91%A8%E7%B3%BB%E5%88%97.png" alt="" class="gf_image" data-gemlang="en" data-width="100%" data-height="auto" title="" width="993" height="771" natural-width="993" natural-height="771"></div>
+</div>
+</div>
+</div>
+<!--gfsplit-->
+<div data-label="Text Block" data-key="text-block" data-atomgroup="element" id="e-1645689993023" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1645689993023">
+<div class="elm text-edit gf-elm-left" data-gemlang="en">
+<p> </p>
+<p> </p>
+<p> </p>
+</div>
+</div>
+<!--gfsplit-->
+<script>// <![CDATA[
+window.__gemStoreData = {};window.__gemStoreData.gemKeyValid = {};window.__gemStoreData.gemKeyValid.bestWayAddToCart = 1;
+// ]]]]><![CDATA[></script>
+</div>
+<div id="divContentBk"></div>
+<!--End_Gem_Page_Main_Editor-->]]>
+    </content>
+  </entry>
+</feed>

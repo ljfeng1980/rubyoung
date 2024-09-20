@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://rubyoung.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://rubyoung.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://rubyoung.com/collections/r630-r830.atom"/>
+  <title>Rubyoung</title>
+  <updated>2022-09-21T23:50:05+08:00</updated>
+  <author>
+    <name>Rubyoung</name>
+  </author>
+  <entry>
+    <id>https://rubyoung.com/products/7527655899289</id>
+    <published>2022-09-21T23:50:05+08:00</published>
+    <updated>2022-09-21T23:50:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://rubyoung.com/products/m430-bluetooth-speaker"/>
+    <title>Portable Bluetooth Speaker M430</title>
+    <s:type>Speakers</s:type>
+    <s:vendor>Rubyoung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0554/7815/7465/products/1-min_11039100-3bcf-4788-9a16-8f5a630499dd.png?v=1672988839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rubyoung<br>
+        <strong>Type: </strong>Speakers<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="accordion">
+<div class="accordion__heading"><br></div>
+<div class="accordion__group">
+<div class="accordion__text">
+<ul></ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth Speaker</s:tag>
+    <s:tag>Rubyoung</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>White Frost / Rose</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>White Frost / Customizable</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>6974380420342+</s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>White Frost / Heart</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>White Frost / Lovers&apos; Words</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>White Frost / Pemaquid Light</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>6974380420342+6974380420519</s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>White Frost / Seattle</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>6974380420342+6974380420526</s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>White Frost / Deer King</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>6974380420342+6974380420533</s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>White Frost / Knights of Hike</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>6974380420342+6974380420540</s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>White Frost / No Cover</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>6974380420342</s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>Green Prairie / Rose</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>Green Prairie / Customizable</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>6974380420120+</s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>Green Prairie / Heart</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>Green Prairie / Lovers&apos; Words</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>Green Prairie / Pemaquid Light</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>6974380420120+6974380420519</s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>Green Prairie / Seattle</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>6974380420120+6974380420526</s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>Green Prairie / Deer King</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>6974380420120+6974380420533</s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>Green Prairie / Knights of Hike</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>6974380420120+6974380420540</s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7527655899289</id>
+      <title>Green Prairie / No Cover</title>
+      <s:price currency="USD">349.00</s:price>
+      <s:sku>6974380420120</s:sku>
+      <s:grams>3300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rubyoung.com/products/7444611137689</id>
+    <published>2022-08-08T17:52:11+08:00</published>
+    <updated>2022-08-08T17:52:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://rubyoung.com/products/blue-bluetooth-speaker-r830"/>
+    <title>Hi-Fi Bluetooth Speaker R830 Alcantara Blue</title>
+    <s:type></s:type>
+    <s:vendor>Rubyoung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0554/7815/7465/products/10-min_90f8a1ef-c540-4562-aeca-f6f4aac906fa.png?v=1672289912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rubyoung<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            749.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="accordion">
+<div class="accordion__heading"><strong>FEATURES</strong></div>
+<div class="accordion__group">
+<a href="#" class="accordion__label"></a>
+<div class="accordion__text">
+<ul>
+<li>Impeccable sound and design.</li>
+<li>Magnetic and swappable panel design.</li>
+<li>Fusion of boutique leather and modern alloy.</li>
+<li>Integration of fabric printing technology and fine arts designs.</li>
+<li>Equip with the Proprietary Current Mode Amplification, to improve the reduction index and reduce the distortion.</li>
+<li>Independent DSP digital lossless frequency division, keep the Bluetooth connection.</li>
+</ul>
+</div>
+</div>
+<div class="accordion__heading"><strong>SPECIFICATIONS</strong></div>
+<div class="accordion__group">
+<a href="#" class="accordion__label"></a>
+<div class="accordion__text">
+<ul>
+<li>Best Use: Household life, Live House, Outdoor Sports</li>
+<li>Material: Boutique Leather and Modern Alloy</li>
+<li>Color: Samurai Black / Green / Ruby Red / White / Coffee / Autumn Ginkgo</li>
+<li>Dimensions: 37 X 14 X 25cm/14.6 X 5.5 X 10in</li>
+<li>Weight: 16.5lbs / 7.5kg</li>
+<li>Rated Power: 120W</li>
+<li>Frequency Response: 50Hz~20KHz</li>
+<li>Woofer: 5.25in fiberglass woven basin woofer*2</li>
+<li>Tweeter: 1in silk-screen spherical tweeter*2</li>
+<li>Frequency Division Type: Active DSP two frequency division</li>
+<li>Audio Input Interface: Bluetooth, Optical Fiber, Stereo 3.5mm</li>
+<li>Audio Output Stereo: 3.5mm</li>
+<li>Bluetooth Version: Bluetooth 5.0</li>
+<li>Supported Protocol: A2DP1.3, AVRCP1.6, HFP1.6, HSP1.2, SPP1.2</li>
+<li>Input Power: AC220V-50HZ</li>
+</ul>
+</div>
+</div>
+<div class="accordion__heading"><strong>PACKAGE &amp; GUARANTEE</strong></div>
+<div class="accordion__group">
+<a href="#" class="accordion__label"></a>
+<div class="accordion__text">
+<ul>
+<li>PACKING LISTS: 1x Speaker, 2x Speaker Panels, 1x User Manual</li>
+<li>GUARANTEE: 30 Days 100% Satisfaction</li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rubyoung</s:tag>
+    <s:variant>
+      <id>https://rubyoung.com/products/7444611137689</id>
+      <title>Blue Love</title>
+      <s:price currency="USD">749.00</s:price>
+      <s:sku>6974380420182+6974380420380</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7444611137689</id>
+      <title>Customizable</title>
+      <s:price currency="USD">749.00</s:price>
+      <s:sku>6974380420182+</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7444611137689</id>
+      <title>Monument Valley</title>
+      <s:price currency="USD">749.00</s:price>
+      <s:sku>6974380420182+6974380420366</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7444611137689</id>
+      <title>Bull Dance</title>
+      <s:price currency="USD">749.00</s:price>
+      <s:sku>6974380420182+6974380420373</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7444611137689</id>
+      <title>Black Horse</title>
+      <s:price currency="USD">749.00</s:price>
+      <s:sku>6974380420182+6974380420359</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7444611137689</id>
+      <title>Zebra Stripes</title>
+      <s:price currency="USD">749.00</s:price>
+      <s:sku>6974380420182+6974380420403</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7444611137689</id>
+      <title>Zebra</title>
+      <s:price currency="USD">749.00</s:price>
+      <s:sku>6974380420182+6974380420410</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7444611137689</id>
+      <title>Giraffe Pattern</title>
+      <s:price currency="USD">749.00</s:price>
+      <s:sku>6974380420182+6974380420397</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7444611137689</id>
+      <title>Red Passion</title>
+      <s:price currency="USD">749.00</s:price>
+      <s:sku>6974380420182+6974380420427</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7444611137689</id>
+      <title>Leopard Print</title>
+      <s:price currency="USD">749.00</s:price>
+      <s:sku>6974380420182+6974380420441</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7444611137689</id>
+      <title>Black Mountain</title>
+      <s:price currency="USD">749.00</s:price>
+      <s:sku>6974380420182+6974380420434</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7444611137689</id>
+      <title>No Cover</title>
+      <s:price currency="USD">749.00</s:price>
+      <s:sku>6974380420182</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rubyoung.com/products/6733689749657</id>
+    <published>2022-06-29T15:46:06+08:00</published>
+    <updated>2022-06-29T15:46:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://rubyoung.com/products/high-power-hifi-bluetooth-speaker-r630"/>
+    <title>Hi-Fi Bluetooth Speaker R630</title>
+    <s:type>Speakers</s:type>
+    <s:vendor>Rubyoung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0554/7815/7465/products/10-min_164fd91d-9334-404d-95a7-3b150bbabd3b.png?v=1672289547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rubyoung<br>
+        <strong>Type: </strong>Speakers<br>
+        <strong>Price: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="accordion">
+<div class="accordion__heading"><strong>FEATURES</strong></div>
+<div class="accordion__group">
+<a href="#" class="accordion__label"></a>
+<div class="accordion__text">
+<ul>
+<li>Impeccable sound and design.</li>
+<li>Magnetic and swappable panel design.</li>
+<li>Fusion of boutique leather and modern alloy.</li>
+<li>Integration of fabric printing technology and fine arts designs.</li>
+<li>Equip with the Proprietary Current Mode Amplification, to improve the reduction index and reduce the distortion.</li>
+<li>Independent DSP digital lossless frequency division, keep the Bluetooth connection.</li>
+</ul>
+</div>
+</div>
+<div class="accordion__heading"><strong>SPECIFICATIONS</strong></div>
+<div class="accordion__group">
+<a href="#" class="accordion__label"></a>
+<div class="accordion__text">
+<ul>
+<li>Best Use: Household life, Live House, Outdoor Sports</li>
+<li>Material: Boutique Leather and Modern Alloy</li>
+<li>Color: Samurai Black / Green / Ruby Red / White / Coffee / Autumn Ginkgo</li>
+<li>Dimensions: 37 X 14 X 25cm/14.6 X 5.5 X 10in</li>
+<li>Weight: 16.5lbs / 7.5kg</li>
+<li>Rated Power: 120W</li>
+<li>Frequency Response: 50Hz~20KHz</li>
+<li>Woofer: 5.25in fiberglass woven basin woofer*2</li>
+<li>Tweeter: 1in silk-screen spherical tweeter*2</li>
+<li>Frequency Division Type: Active DSP two frequency division</li>
+<li>Audio Input Interface: Bluetooth, Optical Fiber, Stereo 3.5mm</li>
+<li>Audio Output Stereo: 3.5mm</li>
+<li>Bluetooth Version: Bluetooth 5.0</li>
+<li>Supported Protocol: A2DP1.3, AVRCP1.6, HFP1.6, HSP1.2, SPP1.2</li>
+<li>Input Power: AC220V-50HZ</li>
+</ul>
+</div>
+</div>
+<div class="accordion__heading"><strong>PACKAGE &amp; GUARANTEE</strong></div>
+<div class="accordion__group">
+<a href="#" class="accordion__label"></a>
+<div class="accordion__text">
+<ul>
+<li>PACKING LISTS: 1x Speaker, 2x Speaker Panels, 1x User Manual</li>
+<li>GUARANTEE: 30 Days 100% Satisfaction</li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth Speaker</s:tag>
+    <s:tag>Rubyoung</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Lunar White / Monument Valley</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420137+6974380420366</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Lunar White / Customizable</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420137+</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Lunar White / Blue Love</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420137+6974380420380</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Lunar White / Bull Dance</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420137+6974380420373</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Lunar White / Black Horse</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420137+6974380420359</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Lunar White / Zebra Stripes</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420137+6974380420403</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Lunar White / Zebra</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420137+6974380420410</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Lunar White / Giraffe Pattern</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420137+6974380420397</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Lunar White / Red Passion</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420137+6974380420427</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Lunar White / Leopard Print</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420137+6974380420441</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Lunar White / Black Mountain</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420137+6974380420434</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Lunar White / No Cover</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420137</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Dolce Brown / Monument Valley</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420144+6974380420366</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Dolce Brown / Customizable</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420144+</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Dolce Brown / Blue Love</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420144+6974380420380</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Dolce Brown / Bull Dance</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420144+6974380420373</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Dolce Brown / Black Horse</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420144+6974380420359</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Dolce Brown / Zebra Stripes</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420144+6974380420403</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Dolce Brown / Zebra</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420144+6974380420410</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Dolce Brown / Giraffe Pattern</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420144+6974380420397</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Dolce Brown / Red Passion</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420144+6974380420427</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Dolce Brown / Leopard Print</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420144+6974380420441</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Dolce Brown / Black Mountain</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420144+6974380420434</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Dolce Brown / No Cover</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420144</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Birmingham Green / Monument Valley</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420151+6974380420366</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Birmingham Green / Customizable</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420151+</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Birmingham Green / Blue Love</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420151+6974380420380</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Birmingham Green / Bull Dance</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420151+6974380420373</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Birmingham Green / Black Horse</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420151+6974380420359</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Birmingham Green / Zebra Stripes</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420151+6974380420403</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Birmingham Green / Zebra</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420151+6974380420410</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Birmingham Green / Giraffe Pattern</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420151+6974380420397</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Birmingham Green / Red Passion</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420151+6974380420427</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Birmingham Green / Leopard Print</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420151+6974380420441</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Birmingham Green / Black Mountain</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420151+6974380420434</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/6733689749657</id>
+      <title>Birmingham Green / No Cover</title>
+      <s:price currency="USD">549.00</s:price>
+      <s:sku>6974380420151</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://rubyoung.com/products/7228827697305</id>
+    <published>2022-05-13T16:56:39+08:00</published>
+    <updated>2022-05-13T16:56:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://rubyoung.com/products/bluetooth-speaker-r830"/>
+    <title>Hi-Fi Bluetooth Speaker R830</title>
+    <s:type></s:type>
+    <s:vendor>Rubyoung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0554/7815/7465/products/10-min_3bbcf1ca-6f0c-40dd-b7a3-2cc5fefa3c88.png?v=1670605543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rubyoung<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="accordion">
+<div class="accordion__heading"><strong>FEATURES</strong></div>
+<div class="accordion__group">
+<a href="#" class="accordion__label"></a>
+<div class="accordion__text">
+<ul>
+<li>Impeccable sound and design.</li>
+<li>Magnetic and swappable panel design.</li>
+<li>Fusion of boutique leather and modern alloy.</li>
+<li>Integration of fabric printing technology and fine arts designs.</li>
+<li>Equip with the Proprietary Current Mode Amplification, to improve the reduction index and reduce the distortion.</li>
+<li>Independent DSP digital lossless frequency division, keep the Bluetooth connection.</li>
+</ul>
+</div>
+</div>
+<div class="accordion__heading"><strong>SPECIFICATIONS</strong></div>
+<div class="accordion__group">
+<a href="#" class="accordion__label"></a>
+<div class="accordion__text">
+<ul>
+<li>Best Use: Household life, Live House, Outdoor Sports</li>
+<li>Material: Boutique Leather and Modern Alloy</li>
+<li>Color: Samurai Black / Green / Ruby Red / White / Coffee / Autumn Ginkgo</li>
+<li>Dimensions: 37 X 14 X 25cm/14.6 X 5.5 X 10in</li>
+<li>Weight: 16.5lbs / 7.5kg</li>
+<li>Rated Power: 120W</li>
+<li>Frequency Response: 50Hz~20KHz</li>
+<li>Woofer: 5.25in fiberglass woven basin woofer*2</li>
+<li>Tweeter: 1in silk-screen spherical tweeter*2</li>
+<li>Frequency Division Type: Active DSP two frequency division</li>
+<li>Audio Input Interface: Bluetooth, Optical Fiber, Stereo 3.5mm</li>
+<li>Audio Output Stereo: 3.5mm</li>
+<li>Bluetooth Version: Bluetooth 5.0</li>
+<li>Supported Protocol: A2DP1.3, AVRCP1.6, HFP1.6, HSP1.2, SPP1.2</li>
+<li>Input Power: AC220V-50HZ</li>
+</ul>
+</div>
+</div>
+<div class="accordion__heading"><strong>PACKAGE &amp; GUARANTEE</strong></div>
+<div class="accordion__group">
+<a href="#" class="accordion__label"></a>
+<div class="accordion__text">
+<ul>
+<li>PACKING LISTS: 1x Speaker, 2x Speaker Panels, 1x User Manual</li>
+<li>GUARANTEE: 30 Days 100% Satisfaction</li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bluetooth Speaker</s:tag>
+    <s:tag>Featured</s:tag>
+    <s:tag>Rubyoung</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Ruby Red / Red Passion</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420168+6974380420427</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Ruby Red / Customizable</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420168+</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Ruby Red / Blue Love</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420168+6974380420380</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Ruby Red / Monument Valley</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420168+6974380420366</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Ruby Red / Bull Dance</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420168+6974380420373</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Ruby Red / Black Horse</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420168+6974380420359</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Ruby Red / Zebra Stripes</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420168+6974380420403</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Ruby Red / Zebra</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420168+6974380420410</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Ruby Red / Giraffe Pattern</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420168+6974380420397</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Ruby Red / Leopard Print</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420168+6974380420441</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Ruby Red / Black Mountain</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420168+6974380420434</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Ruby Red / No Cover</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420168</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Samurai Black / Red Passion</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420175+6974380420427</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Samurai Black / Customizable</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420175+</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Samurai Black / Blue Love</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420175+6974380420380</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Samurai Black / Monument Valley</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420175+6974380420366</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Samurai Black / Bull Dance</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420175+6974380420373</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Samurai Black / Black Horse</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420175+6974380420359</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Samurai Black / Zebra Stripes</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420175+6974380420403</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Samurai Black / Zebra</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420175+6974380420410</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Samurai Black / Giraffe Pattern</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420175+6974380420397</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Samurai Black / Leopard Print</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420175+6974380420441</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Samurai Black / Black Mountain</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420175+6974380420434</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://rubyoung.com/products/7228827697305</id>
+      <title>Samurai Black / No Cover</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku>6974380420175</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+  </entry>
+</feed>
