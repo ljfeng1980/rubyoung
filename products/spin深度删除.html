@@ -158,7 +158,7 @@
                 if ("undefined" == typeof jQuery || !jQuery || 1 === parseInt(jQuery.fn.jquery) && parseFloat(jQuery.fn.jquery.replace(/^1\./, "")) < 10) {
                     var e = document.getElementsByTagName("head")[0],
                         n = document.createElement("script");
-                    n.src = ("https:" == document.location.protocol ? "https://" : "http://") + "ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js", n.type = "text/javascript", n.onload = n.onreadystatechange = function () {
+                    n.src = ("https:" == document.location.protocol ? "https://" : "https://") + "ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js", n.type = "text/javascript", n.onload = n.onreadystatechange = function () {
                         n.readyState ? "complete" !== n.readyState && "loaded" !== n.readyState || (n.onreadystatechange = null, t(jQuery.noConflict(!0))) : t(jQuery.noConflict(!0))
                     }, e.appendChild(n)
                 } else t(jQuery)
